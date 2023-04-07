@@ -1,2 +1,2 @@
-# potoc
-Photo C++
+# Photo C++ \ RU
+Photo C++ в разработке
